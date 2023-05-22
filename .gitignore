@@ -1,0 +1,5 @@
+__pycache__
+/mp_env
+
+# Temporarily storing mouse commands that will be synced to the gestures
+mouse.py
